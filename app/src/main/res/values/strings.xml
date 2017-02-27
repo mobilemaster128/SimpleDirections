@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MapOverlay</string>
+    <string name="start_loc_hint">Enter starting location</string>
+    <string name="end_loc_hint">Enter destination location</string>
+    <string name="to_string">to</string>
+    <string name="get_directions_button">Save me from getting lost</string>
+    <string name="download_string">Downloading Directions…</string>
+    <string name="success_string">Follow these directions:</string>
+    <string name="SERVER_KEY">AIzaSyCT2aP-sB7bY5lk-Gkd54Z_vnlJqIU72z0</string>
+</resources>
